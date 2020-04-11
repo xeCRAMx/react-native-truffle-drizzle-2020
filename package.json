@@ -1,5 +1,5 @@
 {
-    "name": "time-registration",
+    "name": "sample-proyect",
     "version": "1.0.0",
     "description": "",
     "main": "truffle-config.js",
@@ -17,7 +17,6 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "@openzeppelin/contracts": "^2.5.0",
-        "@truffle/hdwallet-provider": "^1.0.34"
+        "@openzeppelin/contracts": "^2.5.0"
     }
 }
